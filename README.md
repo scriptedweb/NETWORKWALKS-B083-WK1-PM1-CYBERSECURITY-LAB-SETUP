@@ -48,19 +48,19 @@ Some of the activities I will be practicing include:
 * 🧪 Security-tool experimentation
 
 ⚙️ Lab Configuration
-🧩 Component	⚙️ Configuration
-🖥️ Host OS	Windows 11 Pro
-🧠 Host RAM	16 GB
-⚡ Processor	Intel Core i5
-🧰 Hypervisor	VirtualBox 7.2.6
-🐉 Security OS	Kali Linux 2026.3
-🧠 Kali RAM	2048 MB
-🌐 Virtual Network	NAT Network
-📡 Network Address	10.0.0.0/24
-🐧 Kali IP Address	10.0.0.2/24
-🚪 Default Gateway	10.0.0.1
-🌍 DNS Server	8.8.8.8
-🔮 Future VM Range	10.0.0.3–10.0.0.99
+|🧩  Component |	⚙️ | Configuration |
+| 🖥️ Host OS | Windows 11 Pro |
+| 🧠  Host RAM	| 16 GB |
+| ⚡  Processor |	Intel Core i5 |
+| 🧰 Hypervisor | 	VirtualBox 7.2.6 |
+| 🐉 Security OS |	Kali Linux 2026.3 |
+| 🧠 Kali RAM | 2048 MB |
+| 🌐 Virtual Network |	NAT Network |
+| 📡 Network Address |	10.0.0.0/24 |
+| 🐧 Kali IP Address |	10.0.0.2/24 |
+| 🚪 Default Gateway	| 10.0.0.1 |
+| 🌍 DNS Server	 | 8.8.8.8 |
+| 🔮 Future VM Range |	10.0.0.3–10.0.0.99 |
 
 The Kali Linux VM will act as my **attacking/security-testing machine**, while the Windows 10 VM will provide a controlled target environment.
 
