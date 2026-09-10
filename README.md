@@ -47,6 +47,21 @@ Some of the activities I will be practicing include:
 * 💥 Exploitation practice
 * 🧪 Security-tool experimentation
 
+⚙️ Lab Configuration
+🧩 Component	⚙️ Configuration
+🖥️ Host OS	Windows 11 Pro
+🧠 Host RAM	16 GB
+⚡ Processor	Intel Core i5
+🧰 Hypervisor	VirtualBox 7.2.6
+🐉 Security OS	Kali Linux 2026.3
+🧠 Kali RAM	2048 MB
+🌐 Virtual Network	NAT Network
+📡 Network Address	10.0.0.0/24
+🐧 Kali IP Address	10.0.0.2/24
+🚪 Default Gateway	10.0.0.1
+🌍 DNS Server	8.8.8.8
+🔮 Future VM Range	10.0.0.3–10.0.0.99
+
 The Kali Linux VM will act as my **attacking/security-testing machine**, while the Windows 10 VM will provide a controlled target environment.
 
 ## 📚 What I Learned
@@ -62,3 +77,8 @@ Rather than experimenting against systems I don't own, I can use virtual machine
 With the basic infrastructure working, I'm ready to move on to the next Network Walks task and begin introducing practical reconnaissance and security-testing activities into the lab.
 
 #Cybersecurity #NetworkSecurity #PenetrationTesting #KaliLinux #VirtualBox #EthicalHacking #CybersecurityLab #VAPT #NetworkWalks #HandsOnLearning
+
+# Author
+# Kings Ojore Ojorumi
+
+LinkedIn: www.linkedin.com/in/kings-ojorumi-9ab793311
