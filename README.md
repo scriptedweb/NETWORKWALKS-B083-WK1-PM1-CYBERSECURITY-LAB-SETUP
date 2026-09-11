@@ -56,7 +56,7 @@ Some of the activities I will be practicing include:
 | ⚡ Processor        | Intel Core i5      |
 | 🧰 Hypervisor      | VirtualBox 7.2.6   |
 | 🐉 Security OS     | Kali Linux 2026.3  |
-| 🧠 Kali RAM        | 2048 MB            |
+| 🧠 Kali RAM        | 3854 MB            |
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
 | 🐧 Kali IP Address | 10.0.0.2/24        |
